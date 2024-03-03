@@ -1,13 +1,19 @@
 # node-todo-cicd
 
-sudo apt install nodejs
-sudo apt install npm
+Run these commands:
 
 
-npm install
+`sudo apt install nodejs`
 
-node app.js
 
-# follow my blog for EKS deployment
+`sudo apt install npm`
 
-https://sunitabachhav2007.hashnode.dev/jenkins-cicd-with-amazon-eks
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
+
